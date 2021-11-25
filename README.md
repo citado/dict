@@ -1,10 +1,10 @@
-# Dictionary
+# واژه‌نامه
 
-## Introduction
+## مقدمه
 
-Many of us writing scientific papers and etc in Persion and we need to use Persion equivalent of scientific and technical words.
-Here I am trying to write them in latex so you can use them as a chapter in your eassays or thesis.
+بسیاری از ما روزانه متن‌های علمی و تخصصی به زبان فارسی می‌نویسیم که نیاز داریم این واژه‌ها را با معادل فارسی آن‌ها به کار ببندیم.
+در این مخزن من یک فایل زی‌پرشین حاضر کرده‌ام که می‌توان از آن در قالب واژه‌نامه در پایان‌نامه‌ها و سایر متون استفاده کرد.
 
-## References
+## مراجع
 
 - [واژه نامه‌های ایرانداک](https://dic.irandoc.ac.ir/)
