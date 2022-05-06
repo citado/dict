@@ -1,4 +1,8 @@
-$pdflatex = "xelatex %O %S";
-$pdf_mode = 1;
-$dvi_mode = 0;
-$postscript_mode = 0;
+# based on https://ctan.asis.ai/support/latexmk/example_rcfiles/
+# If equal to 5, generate a pdf version (and an xdv version) of the document using xelatex
+$pdf_mode = 5;
+$postscript_mode = $dvi_mode = 0;
+
+$warnings_as_errors = 0;
+
+@default_files = ('main.tex');
